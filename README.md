@@ -21,11 +21,11 @@ No, it won’t, sadly. And honestly, I’m absolutely crushed by the fact that V
 Class | Small Pic | Fullbody
 ------------ | ------------- | -------------
 Scout | &#9745; | &#9744;
-Soldier | &#9744; | &#9744;
+Soldier | Blue variant only | &#9744;
 Pyro | &#9745; | &#9744;
-Demoman | &#9744; | &#9744;
-Heavy | &#9744; | &#9744;
-Engineer | &#9744; | &#9744;
+Demoman | Blue variant only | &#9744;
+Heavy | &#9745; | &#9744;
+Engineer | Blue variant only | &#9744;
 Medic | &#9744; | &#9744;
 Sniper | &#9744; | &#9744;
 Spy | &#9745; | &#9744;
@@ -35,5 +35,6 @@ Thanks to:
 - Demvare, Ducksquack, Octo, and the After Hours #game-chat channel for putting up with my complaints about Spy’s soulless eyes
 - Valve Software, the Krita team, VTF Edit, and the WINE project
 - And thank you to the following modellers:
-  - [Alaxe](https://steamcommunity.com/id/secretlyapyro) for their enhanced Spy model.
-  - [SediSocks](https://steamcommunity.com/id/SedimentarySocks) for their hi-poly Pyro model and Scout hat.
+  - [Alaxe](https://steamcommunity.com/id/secretlyapyro) for their enhanced Spy character model.
+  - [SediSocks](https://steamcommunity.com/id/SedimentarySocks) for their hi-poly Pyro character model, hi-poly Heavy ammo belt, enhanced Heavy character model, and hi-poly Scout hat.
+  - [Maxxy](https://steamcommunity.com/id/Maxxy11) for their enhanced Soldier character model, enhanced Demoman character model, and enhanced Engineer character model.
