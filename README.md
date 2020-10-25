@@ -19,13 +19,13 @@ No, it won’t, sadly. And honestly, I’m absolutely crushed by the fact that V
 Class | Small Pic | Fullbody
 ------------ | ------------- | -------------
 Scout | &#9745; | &#9744;
-Soldier | BLU variant only | &#9744;
+Soldier | &#9745; | &#9744;
 Pyro | &#9745; | &#9744;
-Demoman | BLU variant only | &#9744;
+Demoman | &#9745; | &#9744;
 Heavy | &#9745; | &#9744;
-Engineer | BLU variant only | &#9744;
-Medic | BLU variant only | &#9744;
-Sniper | BLU variant only | &#9744;
+Engineer | &#9745; | &#9744;
+Medic | &#9745; | &#9744;
+Sniper | &#9745; | &#9744;
 Spy | &#9745; | &#9744;
 
 Map BG | Remade?
