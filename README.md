@@ -6,7 +6,7 @@ When you disable the 3D player model, you get a crusty looking jpeg (or rather, 
 This project is currently incomplete.
 
 ## What does this do?
-It replaces all the old art assets that are used when the 3D player model is disabled with higher resolution SFM recreations. I tried being as faithful to the source material as I could.
+It replaces all the [old art assets that are used when the 3D player model is disabled with higher resolution SFM recreations.](https://github.com/Sloofy/soup/wiki/Comparisons) I tried being as faithful to the source material as I could.
 
 ## How do I install this?
 Download the [latest release](https://github.com/Sloofy/soup/releases) and put it in your tf/customs folder.
