@@ -3,8 +3,6 @@
 # Sloofy's Overhauled UI Portraits (SOUP)
 When you disable the 3D player model, you get a crusty looking .jpeg (or rather, a .vtf) of the class you’re playing as. Ever notice how the class portraits are using beta / inconsistent models for the mercs? With the funky shading and various other bits? You most certainly have now that I’ve told you. Out of frustration, I remade every class portrait using Source Filmmaker.
 
-This project is currently incomplete.
-
 ## What does this do?
 It replaces all the [old art assets that are used when the 3D player model is disabled with higher resolution SFM recreations.](https://github.com/Sloofy/soup/wiki/Comparisons) I tried being as faithful to the source material as I could.
 
