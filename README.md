@@ -1,5 +1,7 @@
 ![Promo](https://i.imgur.com/FDH1VWr.png)
 
+# Note: This repository is behind on the current active version of SOUP and has details that do not reflect the current state of the mod. If you prefer to see the live version, please refer to the [Gamebanana page](https://gamebanana.com/guis/36087) instead for now.
+
 # Sloofy's Overhauled UI Portraits (SOUP)
 When you disable the 3D player model, you get a crusty looking .jpeg (or rather, a .vtf) of the class you’re playing as. Ever notice how the class portraits are using beta / inconsistent models for the mercs? With the funky shading and various other bits? You most certainly have now that I’ve told you. Out of frustration, I remade every class portrait using Source Filmmaker.
 
