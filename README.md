@@ -1,6 +1,7 @@
 ![Promo](https://i.imgur.com/519jZkm.png)
 
-# Note: This repository is behind on the current active version of SOUP and has details that do not reflect the current state of the mod. If you prefer to see the live version, please refer to the [Gamebanana page](https://gamebanana.com/guis/36087) instead for now.
+# Note
+This repository is for archiving and documenting purposes only. This means that unless you are looking for a specific version of SOUP or wanting to do some research, it is highly recommended to look at the [Gamebanana page](https://gamebanana.com/guis/36087) instead.
 
 # What is SOUP?
 This mod recreates many of the renders that exist in-game with pretty Source Filmmaker reimaginings, whether it be the main menu or the class portraits. The aim of the project is to stay familiar to what you know, but giving everything a nice facelift. It solves a few design inconsistencies, too, with such bug fixes as:
