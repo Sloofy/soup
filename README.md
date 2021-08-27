@@ -1,50 +1,34 @@
-![Promo](https://i.imgur.com/FDH1VWr.png)
+![Promo](https://i.imgur.com/519jZkm.png)
 
 # Note: This repository is behind on the current active version of SOUP and has details that do not reflect the current state of the mod. If you prefer to see the live version, please refer to the [Gamebanana page](https://gamebanana.com/guis/36087) instead for now.
 
-# Sloofy's Overhauled UI Portraits (SOUP)
-When you disable the 3D player model, you get a crusty looking .jpeg (or rather, a .vtf) of the class you’re playing as. Ever notice how the class portraits are using beta / inconsistent models for the mercs? With the funky shading and various other bits? You most certainly have now that I’ve told you. Out of frustration, I remade every class portrait using Source Filmmaker.
+# What is SOUP?
+This mod recreates many of the renders that exist in-game with pretty Source Filmmaker reimaginings, whether it be the main menu or the class portraits. The aim of the project is to stay familiar to what you know, but giving everything a nice facelift. It solves a few design inconsistencies, too, with such bug fixes as:
+- [Class Portraits] Fixes RED and BLU Pyro using wrong team-coloured canisters.
+- [Class Portraits] Fixes beta Spy textures still being used.
+- [Class Portraits] Fixes Demoman's eyepatch being on the wrong eye.
+- [Main Menu] Fixes robot Scout and robot Spy having skintones for their heads.
+- [Main Menu] Fixes Scream Fortress 2011 menu renders being over-saturated.
+- [Main Menu] Fixes robot Soldier, robot Pyro, and robot Demo having team-coloured grenades.
+- [Main Menu] Fixes robot Scout's dogtag floating in mid-air.
+- And probably more fixes that I haven't spotted, yet.
 
-## What does this do?
-It replaces all the [old art assets that are used when the 3D player model is disabled with higher resolution SFM recreations.](https://github.com/Sloofy/soup/wiki/3.2-Comparisons) I tried being as faithful to the source material as I could.
+# Why is SOUP?
+Because, honestly, I got tired of looking at how dated a lot of the renders were. Some of the oldest renders in the game still date back to during the development of TF2 (looking at you, Spy). It has been roughly 15+ years since these images were created; let's get these up into the modern day, I figured.
 
-## How do I install this?
-Download the [latest release](https://github.com/Sloofy/soup/releases) and put it in your tf/customs folder.
-
-## Will this work on sv_pure 1 servers? (Valve matchmaking; casual and official competitive modes)
-No, it won’t, sadly. And honestly, I’m absolutely crushed by the fact that Valve prevents simple art asset changes such as what this mod does. This will, however, work on most community servers that have sv_pure 0, like [creators.tf](https://www.creators.tf/).
-
-## To Do
-
-Class | Small Pic | Fullbody | Menu
------------- | ------------- | ------------- | -------------
-Scout | &#9745; | &#9744; | &#9744;
-Soldier | &#9745; | &#9744; | &#9744;
-Pyro | &#9745; | &#9744; | &#9744;
-Demoman | &#9745; | &#9744; | &#9744;
-Heavy | &#9745; | &#9744; | &#9744;
-Engineer | &#9745; | &#9744; | &#9744;
-Medic | &#9745; | &#9744; | &#9744;
-Sniper | &#9745; | &#9744; | &#9744;
-Spy | &#9745; | &#9744; | &#9744;
-
-Map BG | Remade for 1080p?
-------------- | -------------
-2Fort | &#9744;
-Gravel Pit | &#9744;
-Upward | &#9744;
-Mannworks | &#9744;
-Halloween | &#9744;
-
-- Main Menu carousel
+# How is SOUP?
+While I haven't finished writing everything with regards to the mod, the incomplete documentation and process to making SOUP can be found here: https://github.com/sloofy/soup/wiki.
 
 ## Credits
 Thanks to:
 - Demvare, Ducksquack, Octo, and the After Hours #game-chat channel for putting up with my complaints about Spy’s soulless eyes.
 - Valve Software, the Krita team, VTFEdit, and the WINE project.
 - And thank you to the following modellers for making their work public:
-  - [Alaxe](https://steamcommunity.com/id/secretlyapyro) for their enhanced Spy character model.
-  - [SediSocks](https://steamcommunity.com/id/SedimentarySocks) for their hi-poly Pyro character model, hi-poly Heavy ammo belt, enhanced Heavy character model, and hi-poly Scout hat.
-  - [Maxxy](https://steamcommunity.com/id/Maxxy11) for their enhanced Soldier character model, enhanced Demoman character model, and enhanced Engineer character model.
+  - [Alaxe](https://steamcommunity.com/id/secretlyapyro) for their enhanced Spy character model and Flame Man model.
   - [Albin1997536](https://steamcommunity.com/id/1997536) for their separate flame model.
-  - [R234](https://steamcommunity.com/id/crash_maul) for their enhanced sniper rifle model.
+  - [GameZombie](https://steamcommunity.com/id/GameZombie) for their hi-poly TF2 weapon models.
+  - [Maxxy](https://www.artstation.com/maxxy) for their enhanced Soldier character model, enhanced Demoman character model, and enhanced Engineer character model.
+  - [NeoDement](https://steamcommunity.com/id/neodement) for their enhanced MVM bot models.
+  - [Pte Jack](https://steamcommunity.com/id/PteJack) for their Personal GreenScreen Bubble.
+  - [R234](https://steamcommunity.com/id/crash_maul) for their enhanced TF2 weapon models.
+  - [SediSocks](https://twitter.com/SediSocks) for their hi-poly Pyro character model, hi-poly Heavy ammo belt, enhanced Heavy character model, and hi-poly Scout hat.
