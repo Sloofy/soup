@@ -43,7 +43,7 @@ Yes, but the class selection renders won't work. They work fine in community ser
 ## Credits
 Thanks to:
 - Demvare, [Ducksquack](https://steamcommunity.com/id/Ducksquack), [Octo](https://steamcommunity.com/id/CertifiedOcto/), and the After Hours #game-chat channel for putting up with my complaints about Spy’s soulless eyes.
-- [Lucas-da-Hedgehog](https://www.deviantart.com/lucas-da-hedgehog)
+- [Lucas-da-Hedgehog](https://www.deviantart.com/lucas-da-hedgehog) for their loading screen which inspired the one made in SOUP.
 - [Shellnutguy](https://www.youtube.com/user/123pendejos) for their silly mod idea that started this project.
 - Valve Software, the Krita team, VTFEdit, and the WINE project.
 - And thank you to the following modellers for making their work public:
