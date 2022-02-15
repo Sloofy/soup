@@ -1,0 +1,17 @@
+As of SOUP v1.7.2, there are a couple of ways to configure SOUP more to your liking. These are files you can drag and drop into the SOUP folder structure and it will replace whatever it is that you want to change. Some customization features may require different installation methods. Take a look at the available modules provided below:
+
+Full Colour Backgrounds
+This makes it so the main menu backgrounds are always in full colour and without the two-tone sepia filter.
+
+In order to use this, follow the instructions below:
+1. Drag the materials/ folder into SOUP's materials/ folder. Overwrite all files.
+2. You're done! That was pretty easy!
+
+Mod_textures-less
+This makes the class selection images in a lower resolution (from 512x1024 -> 256x512). As by default SOUP uses the mod_textures.txt file for that high resolution, doing this removes the requirement of mod_textures.txt entirely. This module is offered in case there are mods you want to use with SOUP that also require mod_textures.txt (such as any kill icon mods). Don't do this unless if you have to.
+
+In order to use this, follow the instructions below:
+1. Drag the materials/ folder into SOUP's materials/ folder. Overwrite all files.
+2. Go into SOUP's scripts/ folder.
+3. Delete mod_textures.txt.
+4. That's it! You're mod_textures-less!

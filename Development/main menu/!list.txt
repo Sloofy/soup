@@ -1,0 +1,80 @@
+SOUP is made using home-grown renders designed with modern day design standards in mind, built entirely from scratch. Zero AI upscaling. Consistency galore.
+
+"Renders so good, you could mistake them for Smash fighters!"
+
+Are you sick of 
+
+As this mod remakes all the existing renders, it also happens to fix a few errors in live TF2. These include, but is not limited to:
+ - Uses a higher quality compression method by default, at the expense of storage optimization.
+ - [Class Portraits] Fixes RED and BLU Pyro using wrong team-coloured canisters.
+ - [Class Portraits] Fixes beta Spy textures still being used.
+ - [Class Portraits] Fixes Demoman's eyepatch being on the wrong eye.
+ - [Main Menu] Fixes robot Scout and robot Spy having skintones for their heads.
+ - [Main Menu] Fixes Scream Fortress 2011 menu renders being over-saturated.
+ - [Main Menu] Fixes robot Soldier, robot Pyro, and robot Demo having team-coloured grenades.
+ - [Main Menu] Fixes robot Scout's dogtag floating in mid-air.
+ - And probably more fixes that I haven't spotted, yet.
+ 
+ - Main menu showcase
+ - Class portrait showcase
+ - "Oh yeah, it also works on sv_pure 1, too! (Kinda)"
+ 
+
+ Default (9) = RED Team
+ Fwk_ / Manniversary (9) = BLU Team
+ Robots (8) = RED Team (Meet the Team poses) Remove Spy [Too similar]
+ Halloween 1 (9) = 
+ Halloween 2 (9) = 
+ Halloween 3 (9) = 
+ Smissmas (9) = 
+ EOTL (1) = Ms. Pauling
+ Jungle Inferno (3) = Saxton Hale, Administrator, Gray Manniversary
+ 63 + 3 (JI; latter unconfirmed)
+
+ class_CLASS_normal >  BRGA8888, normal map flag
+ class_CLASS > BRG888
+ class_CLASS_tint, class_CLASS_cloak > DXT1 and DXT5, set low
+
+ Scale:
+ Scout - 722x974 -> 568x766
+ Soldier - 534x974 -> 458x835
+ Pyro - 673x1009 -> 586x879
+ Demoman - 650x1018 -> 502x786
+ Heavy - 581x996 -> 456x782
+ Engineer - 535x1014 -> 441x836
+ Medic - 516x1007 -> 412x804
+ Sniper - 794x1034 -> 600x781
+ Spy - 453x1011 -> 359x801
+ 
+ Currently known issues:
+ - Most Pyro renders have a bit of the green screen near their mask
+ - Scout is missing his dogtag
+ - BLU Scout's headset is orange, not yellow
+ - Clipping with Scream Fortress Medic
+ - Lighting far too strong on Scream Fortress Sniper
+ - Scream Fortress Pyro clips into the edge of the screen
+ - Halloween and Smissmas renders are not done using BRG888 and BRGA8888
+ - Main menu characters do not align perfectly with their event counterparts (I tried to make it as close as I could, but this is the best I can do).
+
+ Exemptions:
+ - Zombies
+ - Meet the Team
+ - Scout Scream 2; 3
+ - Soldier Scream 2
+ - Pyro Scream 2; 3
+ - Engineer Scream 1
+ - Medic Scream  2
+ - Sniper Scream 3
+ - Spy Smissmas; Scream 2; 3
+ 
+ Replace to:
+ - SCOUT: Alien Cranium, Biomech Backpack, Xenosuit / Sidekick's Side Slick, Bat Backup, Crook Combatant / Nugget Noggin, Fowl Fists, Talon Trotters
+ - SOLDIER: Hidden Dragon, Faux Manchu, Shaolin Sash
+ - PYRO: Burny's Boney Bonnet, Cauterizer's Caudal Appendage, Monster's Stompers / Crispy Golden Locks, Scorched Skirt
+ - ENGINEER: 
+ - MEDIC: Templar's Spirit, Wings of Purity
+ - SNIPER: Marsupial Muzzle, Kanga Kickers, Roo Rippers
+ - SPY: Candyman's Cap, Bountiful Bow, Bozo's Brogues
+ 
+ Broken Screams: 10 
+ Halloween Bosses: Monoculous, Merasmus, HHH, Skeleton King, Zeph? = 4 (5?)
